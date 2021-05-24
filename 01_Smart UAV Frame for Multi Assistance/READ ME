@@ -1,0 +1,6 @@
+Smart UAV Framework for Multi Assistance
+Vaishnavi Patil (17104023)
+Utkarsha Potdukhe (17104004)
+Vaishnavi Potphode (17104007)
+In this project we have designed a  UAV system which is capable of monitoring a specific area to capture only humans in the frame.On detection of human greater than the specified 
+thresh hold vaule the system will alert the people by making necessary announcements.This captured footage is then stored to cloud for further accessing.
